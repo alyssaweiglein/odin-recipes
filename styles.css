@@ -10,7 +10,7 @@ h1, h2 {
 }
 
 img {
-
+  width: 80%;
   max-width: 300px;
   margin: auto;
   display: block;
