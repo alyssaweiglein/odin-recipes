@@ -1,0 +1,51 @@
+html {
+  padding: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(243, 239, 231);
+}
+
+h1, h2 {
+  text-align: center;
+  color: rgb(68, 51, 37);
+}
+
+img {
+  min-width:30%;
+  max-width: 300px;
+  margin: auto;
+  display: block;
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(177, 136, 103);
+
+}
+
+a:hover {
+  color: rgb(0, 0, 0);
+  transition: .2s;
+}
+
+hr {
+  color: rgb(236, 236, 236);
+  opacity: .3;
+}
+
+.recipe-card {
+  background-color: white;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.menu-links {
+  text-align: center;
+}
+
+li {
+  margin-bottom: 4px;
+  font-style: italic;
+}
