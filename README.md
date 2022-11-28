@@ -1,7 +1,7 @@
 # Odin Recipes
 
 <p align="center">
-  <img src="odin-recipes.gif" />  
+  <img src="cookies.gif" />  
 </p>
 
 Odin Foundations - Project: Recipes  
